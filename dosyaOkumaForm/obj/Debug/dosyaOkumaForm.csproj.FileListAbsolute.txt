@@ -1,0 +1,10 @@
+C:\Users\bilgenur\source\repos\dosyaOkumaForm\dosyaOkumaForm\bin\Debug\dosyaOkumaForm.exe.config
+C:\Users\bilgenur\source\repos\dosyaOkumaForm\dosyaOkumaForm\bin\Debug\dosyaOkumaForm.exe
+C:\Users\bilgenur\source\repos\dosyaOkumaForm\dosyaOkumaForm\bin\Debug\dosyaOkumaForm.pdb
+C:\Users\bilgenur\source\repos\dosyaOkumaForm\dosyaOkumaForm\obj\Debug\dosyaOkumaForm.csprojAssemblyReference.cache
+C:\Users\bilgenur\source\repos\dosyaOkumaForm\dosyaOkumaForm\obj\Debug\dosyaOkumaForm.Form1.resources
+C:\Users\bilgenur\source\repos\dosyaOkumaForm\dosyaOkumaForm\obj\Debug\dosyaOkumaForm.Properties.Resources.resources
+C:\Users\bilgenur\source\repos\dosyaOkumaForm\dosyaOkumaForm\obj\Debug\dosyaOkumaForm.csproj.GenerateResource.cache
+C:\Users\bilgenur\source\repos\dosyaOkumaForm\dosyaOkumaForm\obj\Debug\dosyaOkumaForm.csproj.CoreCompileInputs.cache
+C:\Users\bilgenur\source\repos\dosyaOkumaForm\dosyaOkumaForm\obj\Debug\dosyaOkumaForm.exe
+C:\Users\bilgenur\source\repos\dosyaOkumaForm\dosyaOkumaForm\obj\Debug\dosyaOkumaForm.pdb
